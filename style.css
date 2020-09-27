@@ -1,0 +1,9 @@
+body {
+  text-align:center;
+}
+
+#firstp {
+  word-spacing:10px;
+  font-variant:small-caps;
+  font-size:80px;    
+}
